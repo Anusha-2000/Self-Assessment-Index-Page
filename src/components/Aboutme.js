@@ -13,8 +13,7 @@ const Aboutme = () => {
                 <div className="col-lg-6 col-xm-12">
                     <h1 className="about-heading">About</h1>
                     <p>
-                    What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                    </p>
+                    Student Self-Assesment System is a website curated as a final year project by A15 group of 2017-21 batch students of SRIT college, Anantapur. The main motto of this system is to provide students a cognitive insight into themselves so that they can climb up their academic ladder. Cutting edge technologies like Machine learning and data visualization are incorporated into this website to make it easy for the user to visualize their progress in academics without any ambiguity, so that they can take better decisions to reach their semester and final targets. The best part here is that, unlike the conventional approach, your progress does not depend solely on academic scores. The system takes into consideration all your activities you involve in.</p>
                 </div>
             </div>       
         </div>
