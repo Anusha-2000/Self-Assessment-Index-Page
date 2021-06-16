@@ -1,5 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+//import Signin from "./components/Signin.js";
 import Particles from "react-particles-js";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
@@ -24,7 +25,7 @@ function App() {
               type: "square",
               stroke: {
                 width: 6,
-                color: "#f9ab00"
+                color: "#f33501"
               }
             }
           }
